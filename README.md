@@ -9,7 +9,8 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
       - [Moja aplikacja Meteor](link)
 
 1. Erdanowski, Tomasz
-1. Gisko, Alicja
+1. [Gisko, Alicja](http://agisko.github.io/)
+  - [herbata.md](https://github.com/agisko/agisko.github.io/blob/master/herbaty/herbaty.md)
 1. Jacewicz, Małgorzata
 1. Nowak, Łukasz
 1. Nowicka, Beata
