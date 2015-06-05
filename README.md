@@ -11,6 +11,8 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 1. Erdanowski, Tomasz
 1. [Gisko, Alicja](http://agisko.github.io/)
   - [herbata.md](https://github.com/agisko/agisko.github.io/blob/master/herbaty/herbaty.md)
+  - [zadanie.adoc]https://github.com/agisko/agisko.github.io/blob/master/zadanie.adoc
+  - [Strona internetowa](https://github.com/agisko/agisko.github.io/blob/master/herbaty/herbaty.md)
 1. Jacewicz, Małgorzata
 1. Nowak, Łukasz
 1. Nowicka, Beata
