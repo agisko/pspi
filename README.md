@@ -12,6 +12,7 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 1. [Gisko, Alicja](http://agisko.github.io/)
   - [Markdown doc](https://github.com/agisko/agisko.github.io/blob/master/herbaty/herbaty.md)
   - [ASCII doc](https://github.com/agisko/agisko.github.io/blob/master/zadanie.adoc)
+  - [Podroz do Kataru](https://slides.com/alicja1981)
   - [Strona internetowa](http://agisko.github.io/index.html)
 1. Jacewicz, Małgorzata
 1. Nowak, Łukasz
